@@ -1,0 +1,8 @@
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\bin\Debug\Jeu du pendu.exe.config
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\bin\Debug\Jeu du pendu.exe
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\bin\Debug\Jeu du pendu.pdb
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\obj\Debug\Jeu du pendu.csproj.AssemblyReference.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\obj\Debug\Jeu du pendu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\obj\Debug\Jeu du pendu.csproj.CoreCompileInputs.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\obj\Debug\Jeu du pendu.exe
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\Jeu du pendu\obj\Debug\Jeu du pendu.pdb
